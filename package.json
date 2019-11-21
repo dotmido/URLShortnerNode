@@ -1,0 +1,21 @@
+{
+  "name": "urlshortnerservice",
+  "version": "1.0.0",
+  "description": "URL Shortner service",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "URL",
+    "Shortner",
+    "Service",
+    "URL"
+  ],
+  "author": "dotmido",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
